@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "4.C": "cpp",
+        "locale.h": "c"
+    }
+    
+,"[cpp]": 
+{
+    "files.encoding": "utf8"
+},
+"[c]": 
+{
+    "files.encoding": "utf8"
+},
+}
